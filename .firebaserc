@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "hannamhouse-bb2f2"
+  },
+  "targets": {
+    "hannamhouse-bb2f2": {
+      "hosting": {
+        "default": [
+          "hannamhouse-bb2f2"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

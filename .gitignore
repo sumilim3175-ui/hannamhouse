@@ -1,0 +1,12 @@
+.DS_Store
+firebase-debug.log
+node_modules/
+*.mp4
+images/
+public/images/15_reference/
+public/images/99_video/
+홈페이지/
+사업계획서/
+거래 명세서/
+공간 사진/
+.firebase/
